@@ -28,5 +28,5 @@
             "Parsidev\\Entrust\\": "src/Entrust/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
