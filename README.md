@@ -19,9 +19,6 @@ Entrust is a succinct and flexible way to add Role-based Permissions to **Larave
     - [Short syntax route filter](#short-syntax-route-filter)
     - [Route filter](#route-filter)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
-- [Contribution guidelines](#contribution-guidelines)
-- [Additional information](#additional-information)
 
 ## Installation
 
